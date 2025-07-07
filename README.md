@@ -1,6 +1,6 @@
 # 🔐 Ethical Hacking Journey – Akash Paila
 
-Welcome to my 30-day hands-on journey into **Ethical Hacking and Cybersecurity**.  
+Welcome to my hands-on journey into **Ethical Hacking and Cybersecurity**.  
 This repository documents my daily progress, tools I learn, attacks I simulate, CTFs I solve, and reports I write.
 
 ---
